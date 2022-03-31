@@ -1,0 +1,1 @@
+This demo project shows strange behaviour of @vue-leaflet/vue-leaflet LMarker and LIcon components in vue 3 vite setups.
